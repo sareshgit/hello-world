@@ -1,2 +1,2 @@
-<h1> Hello Satish Kumar, Welcome to Valaxy Technologies !!! </h1>
+<h1> Hello Satish and srikanth Kumar, Welcome to Valaxy Technologies !!! </h1>
 
